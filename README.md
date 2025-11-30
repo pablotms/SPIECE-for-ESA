@@ -2,8 +2,9 @@
 
 This project is a 3D visualization of the real orbits of Earth, the Moon, and Jupiter, computed using real telemetry data (kernels) from NASA.
 
-<img width="1200" height="1000" alt="Figure_1" src="https://github.com/user-attachments/assets/18de76ec-e93f-4168-9792-b98e981d895e" />
-<img width="871" height="821" alt="image" src="https://github.com/user-attachments/assets/6eb9aba3-52da-4ac9-81d9-badf6bdabea5" />
+
+<img width="1200" height="1000" alt="Figure_1" src="https://github.com/user-attachments/assets/c972b526-fea6-40b3-8862-11dc5995bae2" />
+<img width="821" height="797" alt="image" src="https://github.com/user-attachments/assets/b5ccf199-0419-4282-b742-e61b3dafc645" />
 
 
 ## Project Features
